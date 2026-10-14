@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Backend for resume builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sooraj1061/resume_builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sooraj1061/resume_builder/issues"
+  },
+  "homepage": "https://github.com/sooraj1061/resume_builder#readme"
+}
